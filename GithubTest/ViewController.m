@@ -16,8 +16,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    self.view.backgroundColor = [UIColor blueColor];
-    self.view.alpha = 0.5;
     // Do any additional setup after loading the view, typically from a nib.
 }
 
